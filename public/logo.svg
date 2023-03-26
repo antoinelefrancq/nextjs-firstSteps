@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 280 280" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-258.724" y1="-378.131" x2="-258.724" y2="-120.573" id="gradient-0" gradientTransform="matrix(0.046866, 0.98303, -1.053369, 0.072851, -523.153249, 35.718299)" spreadMethod="pad">
+      <stop offset="0" style="stop-color: #00466B;"/>
+      <stop offset="1" style="stop-color: #008ED9"/>
+    </linearGradient>
+  </defs>
+  <circle style="stroke-width: 15px; fill: #f2f2f2; stroke: #f2f2f2;" cx="-253" cy="-250" r="125" transform="matrix(-1.010612, 0, 0, -1, -114.357887, -110)"/>
+  <path style="paint-order: fill; stroke: url(#gradient-0); fill-rule: nonzero; stroke-miterlimit: 37; stroke-linejoin: round; stroke-linecap: round; stroke-width: 14.7506px; fill: none;" d="M -375.798 -291.802 A 124.378 124.378 0 1 1 -375.798 -217 A 124.378 124.378 0 1 0 -375.798 -291.802 Z" transform="matrix(-1.028809, 0, 0, -1.005001, -124.623917, -115.673233)" bx:shape="crescent -257.177 -254.401 124.378 325 1 1@79f2d9e6"/>
+  <polyline style="fill: rgba(216, 216, 216, 0); stroke-linecap: round; stroke-linejoin: round; stroke-width: 15px; mix-blend-mode: darken; stroke: #008ED9;" points="87 213.5 87 50 207.912 213.528"/>
+  <polyline style="fill: rgba(216, 216, 216, 0); stroke-width: 15px; stroke-linejoin: round; stroke-linecap: round; mix-blend-mode: darken; paint-order: fill; stroke: rgb(0, 70, 107);" points="87.037 213.463 87 144 268 144"/>
+</svg>
